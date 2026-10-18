@@ -72,7 +72,7 @@ dibuat karena event handling dibahas pada pertemuan berikutnya.
 
 ### Sketsa Form
 
-![Sketsa Form Anggota Perpustakaan](img/sketsa.jpg)
+![Sketsa Form Anggota Perpustakaan](img/Sketsa.jpeg)
 
 Tabel rancangan layout terdapat pada bagian **Tabel Rancangan Form
 Anggota Perpustakaan** di atas.
@@ -81,16 +81,16 @@ Anggota Perpustakaan** di atas.
 
 ### Ukuran Awal
 
-![Form Anggota Perpustakaan pada ukuran awal](img/tampilan_awal.png)
+![Form Anggota Perpustakaan pada ukuran awal](img/Tampilan%20awal.png)
 
 ### Ukuran Saat Jendela Dilebarkan
 
 ![Form Anggota Perpustakaan saat jendela
-dilebarkan](img/tampilan_lebar.png)
+dilebarkan](img/Tampilan%20setelah%20diubah.png)
 
 ### Tab Design dan Navigator
 
-![Tab Design Form Anggota Perpustakaan dan Navigator](img/navigator.png)
+![Tab Design Form Anggota Perpustakaan dan Navigator](img/Navigator.png)
 
 ## Jawaban Eksperimen Praktikum 2 --- Galeri Layout Manager
 
