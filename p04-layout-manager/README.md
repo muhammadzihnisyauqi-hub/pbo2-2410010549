@@ -2,11 +2,11 @@
 
 ## Identitas Mahasiswa
 
--   **Nama:** Dian Satya Permana
--   **NPM:** 2410010365
+-   **Nama:** Muhammad Zihni Syauqi
+-   **NPM:** 2410010549
 -   **Program Studi:** Teknik Informatika
 -   **Mata Kuliah:** Pemrograman Berbasis Objek 2 (PBO 2)
--   **Repository:** `pbo2-2410010365`
+-   **Repository:** `pbo2-2410010549`
 -   **Folder proyek:** `p04-layout-manager`
 
 ## Deskripsi
