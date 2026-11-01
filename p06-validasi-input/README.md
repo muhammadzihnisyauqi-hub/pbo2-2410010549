@@ -15,7 +15,7 @@
 
 ### 2.1 Form dengan Pesan Kesalahan
 
-![Form dengan Pesan Kesalahan](screenshots/pesan kesalahan.png)
+![Form dengan Pesan Kesalahan](screenshots/pesan_kesalahan.png)
 
 ### 2.2 Navigator dengan Label Pesan
 
@@ -25,7 +25,7 @@
 
 Peer review dilakukan oleh **Dian Satya Permana** terhadap form milik **Muhammad Zihni Syauqi**.
 
-![Lembar Per Review](screenshots/lembar per review.png)
+![Lembar Per Review](screenshots/lembar_per_review.png)
 
 ## 4. Temuan, Perbaikan, dan Commit
 
